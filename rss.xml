@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CON FORZA]]></title>
         <description><![CDATA[CON FORZA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/con-forza/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 03:56:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 17 Jun 2016 03:56:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/con-forza/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3467faec-a494-43ac-ab78-fd83206e5e21.jpg">]]></description>
+            <link>https://thegrid.ai/con-forza/8db672b8-8b0d-446d-bd7f-126079aa72a2/index.html</link>
+            <guid isPermaLink="false">8db672b8-8b0d-446d-bd7f-126079aa72a2</guid>
+            <pubDate>Fri, 17 Jun 2016 03:56:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cffa3149-6f67-4658-b1d1-0150a1d66021.jpg">]]></description>
-            <link>undefined6bf59a91-2e7c-4c93-8f28-11e4dc06660f/index.html</link>
+            <link>https://thegrid.ai/con-forza/6bf59a91-2e7c-4c93-8f28-11e4dc06660f/index.html</link>
             <guid isPermaLink="false">6bf59a91-2e7c-4c93-8f28-11e4dc06660f</guid>
             <pubDate>Fri, 17 Jun 2016 03:56:29 GMT</pubDate>
         </item>
